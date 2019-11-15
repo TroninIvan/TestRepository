@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Branch1
+=======
+Br*****anch2
+>>>>>>> branch2
